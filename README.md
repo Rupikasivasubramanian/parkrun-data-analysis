@@ -28,5 +28,11 @@ Help Puma decide on marketing strategies by answering:
 - Raman Preet Singh
 - Huizhi Zhang
 
+### Key outputs
+- Interactive parkrun location map
+- Participation trend analysis
+- Runner demographic breakdown
+- Technical report for Puma
+
 
 
